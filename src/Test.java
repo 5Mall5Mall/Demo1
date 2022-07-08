@@ -13,6 +13,7 @@ public class Test {
         System.out.println("master commit3");
         System.out.println("11111111111");
         System.out.println("push test");
+         System.out.println("pull test11111111111111111111");
 
     }
 
