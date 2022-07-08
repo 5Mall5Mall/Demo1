@@ -6,6 +6,8 @@ public class Test {
         System.out.println("1111");
         System.out.println("第三次修改");
         System.out.println("hot-fix commit1");
+        System.out.println("hot-fix commit2");
+        System.out.println("hot-fix commit3");
 
     }
 
